@@ -1,0 +1,1 @@
+'C:/PBL SE/Plant-Leaf-Disease-Prediction-main/model.h5'
